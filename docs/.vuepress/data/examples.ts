@@ -1,4 +1,9 @@
 export default [
+    {
+    thumbnail: "https://pic1.imgdb.cn/item/67c6d731d0e0a243d40bd90d.png",
+    link: "http://2269442422.3vcn.work/",
+    avator: "https://pic1.imgdb.cn/item/67c6d731d0e0a243d40bd90d.png"
+  },
    {
     thumbnail: "https://avatars.githubusercontent.com/u/87223862?v=4",
     link: "https://zzh.4everland.website/",
